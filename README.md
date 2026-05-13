@@ -1,4 +1,4 @@
-# 🧠 AI Multi-Agent Interview Simulator (Gemini Powered)
+# 🧠 AI Multi-Agent Interview Simulator (Google AI Powered)
 
 This project simulates a real-world AI-powered technical interview using a multi-agent architecture built on top of Google Gemini models.
 
